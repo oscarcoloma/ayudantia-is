@@ -1,0 +1,30 @@
+body {
+    background-color: #FFFFFF;
+text-decoration:none;
+	}
+
+h1{
+    color:black;
+    text-align:center;
+    font-family:"Arial";
+    }
+h2{
+    color:black;
+    
+    font-family:"Arial";
+    }
+h3{
+    color:black;
+    
+    font-family:"Arial";
+    }
+
+p{ color:black;
+    
+    font-family:"Arial";
+    text-decoration:none;
+    color:black;
+  }
+a {text-decoration:underline;
+   color:green;
+   font-family:"Arial";}
